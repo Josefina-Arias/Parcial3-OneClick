@@ -1,0 +1,25 @@
+.explorar {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+  }
+
+  .mb5{
+      color: burlywood;
+     
+  }
+
+  .formulario {
+    
+      margin-top: 20px;
+      margin-right: auto !important;
+      margin-left: auto !important;
+      
+    
+  }
+  
+.btn-xl {
+    padding: 1.25rem 2.5rem;
+    margin: 10px;
+}
+
